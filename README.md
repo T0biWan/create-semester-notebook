@@ -1,6 +1,7 @@
 # vuenotes
 
-> create a notebook for the semester                                                                             |
+> create a notebook for the semester
+> write markdown and let it render by vuepress
 
 ## Getting Started
 
