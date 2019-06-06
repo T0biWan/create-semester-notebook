@@ -1,0 +1,38 @@
+{
+  "target_directory": "./",
+  "semester_titel":   "10-Semester-SS19",
+  "vorlesungsbegin":  "2019-04-01",
+  "vorlesungsende":   "2019-07-13",
+  "modules": [
+    {
+      "modul":        "Enterprise-Data-Management",
+      "abkuerzung":   "EDM",
+      "dozent":       "Alexander Löser",
+      "vorlesung":    {"tag": 2, "block": 2, "raum": "C Cont 3.3"}
+    },
+    {
+      "modul":        "Requirements-Engineering",
+      "abkuerzung":   "RE",
+      "dozent":       "Hartmut Schirmacher",
+      "vorlesung":    {"tag": 3, "block": 1, "raum": "B 321"},
+      "übung":        {"tag": 3, "block": 2, "raum": "B 223 L"}
+    }
+  ],
+  "days": {
+    "1": "Montag",
+    "2": "Dienstag",
+    "3": "Mittwoch",
+    "4": "Donnerstag",
+    "5": "Freitag"
+  },
+  "block_times": {
+    "1": "08:00",
+    "2": "10:00",
+    "3": "12:15",
+    "4": "14:15",
+    "5": "16:00",
+    "6": "17:45",
+    "7": "19:30",
+    "8": "21:15"
+  }
+}
